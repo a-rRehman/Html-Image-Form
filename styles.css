@@ -1,0 +1,25 @@
+.login-button {
+  background-color: black;
+  color: white;
+  border: none;
+}
+.header-back {
+  background-color: black;
+  color: white;
+}
+.button-sign {
+  color: black;
+}
+
+.error-message {
+  color: red;
+  display: none;
+}
+
+input {
+  border-color: black !important;
+  border-width: 2px !important;
+}
+.thespan {
+  background-color: white !important;
+}
