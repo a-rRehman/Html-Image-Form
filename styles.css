@@ -3,6 +3,11 @@
   color: white;
   border: none;
 }
+.login-button:hover {
+  background-color: rgba(0, 0, 0, 0.651);
+  color: white;
+  border: none;
+}
 .header-back {
   background-color: black;
   color: white;
@@ -11,15 +16,35 @@
   color: black;
 }
 
+.button-sign:hover {
+  color: rgba(0, 0, 0, 0.575);
+}
+
+video#liveImage {
+  width: 495px;
+  margin-bottom: 22px !important;
+  border-radius: 20px;
+}
+
 .error-message {
   color: red;
   display: none;
 }
 
+img.captured-image {
+  width: 200px;
+  border-radius: 10px;
+}
+
 input {
-  border-color: black !important;
   border-width: 2px !important;
+  border-color: black !important;
 }
 .thespan {
   background-color: white !important;
+  border-color: black;
+}
+
+.eyeicon {
+  color: black;
 }
